@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I am Tyger.
+Hi! My name is Tyger, and welcome to my portfolio.
 
 I am interested in technology and learning more about computer science. I want to improve my technical skills and learn how they can help me in future careers.
 
